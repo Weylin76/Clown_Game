@@ -1,6 +1,3 @@
-from dis import dis
-from numpy import disp
-import py
 import pygame
 import random
 
